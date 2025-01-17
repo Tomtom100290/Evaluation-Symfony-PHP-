@@ -16,6 +16,7 @@ class EvenementType extends AbstractType
             ->add('NbPartMax')
             ->add('Organisateur')
             ->add('Participants')
+
         ;
     }
 
